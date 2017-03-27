@@ -1,0 +1,2 @@
+# Bin
+My blog
